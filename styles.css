@@ -127,3 +127,36 @@ button{
     font-weight: 800;
     font-size: 24px;
 }
+.call-to-action{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color: #E5E7EB;
+}
+.call{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex: 0.7;
+    background-color: #3882F6;
+    width: auto;
+    border-radius: 20px;
+    padding: 40px 0px;
+    
+    gap: 20px;
+}
+.call-to-action-head{
+    font-size: 24px;
+}
+.call-to-action-button{
+    padding: 0;
+    margin: 0;
+}
+.call-to-action-text{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
