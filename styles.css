@@ -160,3 +160,12 @@ button{
     flex-direction: column;
     gap: 5px;
 }
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    flex: 1;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+}
